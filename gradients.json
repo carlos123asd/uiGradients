@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "universev2",
+        "colors": ["#02172D","#000115","#1B0E3A"]
     }
 ]
